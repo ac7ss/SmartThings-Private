@@ -12,6 +12,11 @@
  *  on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License
  *  for the specific language governing permissions and limitations under the License.
  *
+ *
+ *	Things I want to do:
+ *		Add option for using thermostat settings for setting and if in cooling mode.
+ *			Optional Themostat device, if defined, will use both setpoint and if in cooling mode.
+ *
  */
 definition(
     name: "Fan Control",
